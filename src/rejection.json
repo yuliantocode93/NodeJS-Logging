@@ -1,0 +1,19 @@
+{
+  "date": "Mon Jan 29 2024 22:06:56 GMT+0700 (Indochina Time)",
+  "error": "Ups",
+  "exception": true,
+  "level": "error",
+  "message": "unhandledRejection: Ups\n  No stack trace",
+  "os": { "loadavg": [0, 0, 0], "uptime": 84123.14 },
+  "process": {
+    "argv": ["C:\\Program Files\\nodejs\\node.exe", "D:\\CODING 1\\PZN-NodeJS\\NodeJS Logging\\src\\logging-rejection.js"],
+    "cwd": "D:\\CODING 1\\PZN-NodeJS\\NodeJS Logging\\src",
+    "execPath": "C:\\Program Files\\nodejs\\node.exe",
+    "gid": null,
+    "memoryUsage": { "arrayBuffers": 10515, "external": 1875490, "heapTotal": 9871360, "heapUsed": 7161368, "rss": 35880960 },
+    "pid": 12228,
+    "uid": null,
+    "version": "v20.11.0"
+  },
+  "trace": []
+}
